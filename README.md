@@ -1,29 +1,29 @@
-# 📅 Wall Calendar
+# Wall Calendar
 
-An interactive, beautifully designed wall calendar component built with React + TypeScript + Vite.
+Live Demo : https://wall-calendar-git-main-priyasinghh29s-projects.vercel.app/
 
-## ✨ Features
+An interactive wall-style calendar built using React, TypeScript, and Vite.
 
-- **Wall Calendar Aesthetic** — Hero image with parallax scrolling, wavy edge, and month typography
-- **Month Themes** — Dynamic accent colors and hero images that change with each month
-- **Date Range Selector** — Click to set start/end dates with live hover preview and visual states
-- **Confetti on Selection** — Celebratory burst when a date range is confirmed
-- **Integrated Notes** — Attach notes to selected date ranges, with dot indicators on the calendar
-- **Weather Display** — Live weather emoji + temperature for each day via Open-Meteo API
-- **Holiday Markers** — Indian & US public holidays marked with red dots and tooltips
-- **Ambient Soundtrack** — Monthly mood-matched ambient audio player
-- **Page Flip Animation** — Smooth 3D flip transition when navigating between months
-- **Dark / Light Mode** — Smooth toggle with sweep transition
-- **Monthly Summary** — Stats card showing notes count, days selected, and busiest week
-- **Fully Responsive** — Desktop side-by-side layout, mobile stacked
+## Features
 
-## 🛠 Tech Stack
+- Calendar layout inspired by a physical wall calendar with a large header image  
+- Month-based themes with changing images and color accents  
+- Ability to select a date range with clear visual feedback  
+- Option to add notes linked to selected dates  
+- Indicators on calendar for dates with notes  
+- Basic weather display for each day using an external API  
+- Public holidays highlighted for better visibility  
+- Smooth transitions while switching months  
+- Light and dark mode support  
+- Summary section showing key usage insights  
+- Responsive design for both desktop and mobile screens  
 
-- React 18 + TypeScript
-- Vite
-- Tailwind CSS
-- Lucide React (icons)
-- canvas-confetti
-- Open-Meteo API (weather)
-- Freesound.org (ambient audio)
+## Tech Stack
 
+- React  
+- TypeScript  
+- Vite  
+- Tailwind CSS  
+- Lucide React (icons)  
+- canvas-confetti  
+- Open-Meteo API  
